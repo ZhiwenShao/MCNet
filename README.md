@@ -5,7 +5,7 @@ We give examples (mcnet_29.m, mcnet_68.m) for obtaining the face alignment resul
 
 If you find our code useful in your research work, please cite [1].
 
-Should you have any questions, then just contact with us through email, shaozhiwen@sjtu.edu.cn.
+Should you have any questions, don't hesitate to contact with us through email shaozhiwen@sjtu.edu.cn.
 
 References:
 
