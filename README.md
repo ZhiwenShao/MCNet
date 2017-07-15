@@ -9,7 +9,7 @@ Should you have any questions, don't hesitate to contact with us through email s
 
 References:
 
-[1] Zhiwen Shao, Hengliang Zhu, Yangyang  Hao, Min  Wang, and Lizhuang Ma, “Learning a multi-center convolutional network for unconstrained face alignment,” in 2017 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2017.
+[1] Zhiwen Shao, Hengliang Zhu, Yangyang  Hao, Min  Wang, and Lizhuang Ma, “Learning a multi-center convolutional network for unconstrained face alignment,” in 2017 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2017, pp. 109–114.
 
 [2] Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross B Girshick, Sergio Guadarrama, and Trevor Darrell, "Caffe: Convolutional architecture for fast feature embedding.," in ACM Multimedia, 2014, vol. 2, p. 4.
 
