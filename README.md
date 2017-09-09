@@ -9,10 +9,10 @@ Should you have any questions, don't hesitate to contact with us through email s
 
 References:
 
-[1] Zhiwen Shao, Hengliang Zhu, Yangyang  Hao, Min  Wang, and Lizhuang Ma, “Learning a multi-center convolutional network for unconstrained face alignment,” in 2017 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2017, pp. 109–114.
+[1] Zhiwen Shao, Hengliang Zhu, Yangyang  Hao, Min  Wang, and Lizhuang Ma, “Learning a multi-center convolutional network for unconstrained face alignment,” in IEEE International Conference on Multimedia and Expo. IEEE, 2017, pp. 109–114.
 
-[2] Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross B Girshick, Sergio Guadarrama, and Trevor Darrell, "Caffe: Convolutional architecture for fast feature embedding.," in ACM Multimedia, 2014, vol. 2, p. 4.
+[2] Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross B Girshick, Sergio Guadarrama, and Trevor Darrell, "Caffe: Convolutional architecture for fast feature embedding.," in ACM International Conference on Multimedia. ACM, 2014, pp. 675–678.
 
-[3] Xavier P Burgos-Artizzu, Pietro Perona, and Piotr Dollar, "Robust face landmark estimation under occlusion," in Computer Vision (ICCV), 2013 IEEE International Conference on. IEEE, 2013, pp. 1513–1520.
+[3] Xavier P Burgos-Artizzu, Pietro Perona, and Piotr Dollar, "Robust face landmark estimation under occlusion," in IEEE International Conference on Computer Vision. IEEE, 2013, pp. 1513–1520.
 
-[4] Christos Sagonas, Georgios Tzimiropoulos, Stefanos Zafeiriou, and Maja Pantic, "300 faces in-the-wild challenge: The first facial landmark localization challenge," in Computer VisionWorkshops (ICCVW), 2013 IEEE International Conference on. IEEE, 2013, pp. 397–403.
+[4] Christos Sagonas, Georgios Tzimiropoulos, Stefanos Zafeiriou, and Maja Pantic, "300 faces in-the-wild challenge: The first facial landmark localization challenge," in IEEE International Conference on Computer VisionWorkshops. IEEE, 2013, pp. 397–403.
