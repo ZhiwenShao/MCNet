@@ -1,7 +1,7 @@
 # MCNet
 This is the testing code of our paper MCNet for both 29 and 68 facial landmarks, using the matlab interface of Caffe [1]. We suggest you using caffe-happynear (https://github.com/happynear/caffe-windows), which is a popular compiled windows version of Caffe.
 
-We give examples (mcnet_29.m, mcnet_68.m) for obtaining the face alignment results on COFW [2] and IBUG [3].
+We give examples (mcnet_29.m, mcnet_68.m) for obtaining the face alignment results on COFW [2] and IBUG [3]. The evaluation code compute_err_fail.m is also provided.
 
 If you find our code useful in your research work, please cite our paper.
 ```
