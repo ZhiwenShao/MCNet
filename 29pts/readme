@@ -2,12 +2,6 @@
 
 You need to add the "COFW_test_color.mat" (provided by [1]) into current folder.
 
-If you find our code useful in your research work, please cite our paper MCNet [2].
-
-Should you have any questions, don't hesitate to contact with us through email shaozhiwen@sjtu.edu.cn.
-
 References:
 
 [1] Xavier P Burgos-Artizzu, Pietro Perona, and Piotr Dollar, "Robust face landmark estimation under occlusion," in Computer Vision (ICCV), 2013 IEEE International Conference on. IEEE, 2013, pp. 1513–1520.
-
-[2] Zhiwen Shao, Hengliang Zhu, Yangyang  Hao, Min  Wang, and Lizhuang Ma, “Learning a multi-center convolutional network for unconstrained face alignment,” in 2017 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2017.
